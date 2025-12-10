@@ -21,7 +21,7 @@ This project is a modular automation framework designed to validate **User Manag
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/jayanthruthala/Rest-API-Testing-Framework.git](https://github.com/jayanthruthala/Rest-API-Testing-Framework.git)
+   git clone [https://github.com/ReemasFury/Rest-API-Testing-Framework.git](https://github.com/ReemasFury/Rest-API-Testing-Framework.git)
 
 2. Install dependancies:
    ```
